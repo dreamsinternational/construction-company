@@ -1,0 +1,236 @@
+body {
+    overflow-x: hidden;
+}
+
+.navbar-brand-block {
+    background-color: #EDCD1F;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    letter-spacing: 1px;
+}
+
+.navbar-nav .nav-link.active {
+    color: #EDCD1F !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #edcd1f !important;
+}
+
+
+.hero-section {
+    height: 100vh;
+    background-image: url('Images/wixhomeimg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 80px;
+    position: relative;
+}
+
+.hero-content h1 {
+    font-size: 8vw;
+}
+
+.hero-content p {
+    font-size: 4vw;
+}
+
+
+.service-header {
+    position: relative;
+    font-size: 4vw;
+}
+
+.service-header::after {
+    content: "";
+    position: absolute;
+    background-color: #EDCD1F;
+    width: 100px;
+    height: 8px;
+    top: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+@media (min-width: 768px) {
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+
+    .service-header {
+        font-size: 4rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .hero-content h1 {
+        font-size: 4rem;
+    }
+
+    .service-header {
+        font-size: 4.5rem;
+    }
+}
+
+
+
+
+.about-wrapper {
+    width: 100vw;
+    height: 90vh;
+}
+
+.about-image-block {
+    flex: 1;
+    background-image: url('Images/wixhomeimg1.jpg');
+    /* Use the correct path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.about-text-block {
+    flex: 1;
+    background-color: #f7f7f7;
+    color: #000;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.about-text-content {
+    max-width: 600px;
+    margin-left: auto;
+    text-align: right;
+}
+
+.about-title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+
+.about-description {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.about-underline {
+    width: 70px;
+    height: 6px;
+    background-color: #000;
+}
+
+/* RESPONSIVE STYLES */
+@media (max-width: 991.98px) {
+    .about-wrapper {
+        flex-direction: column;
+        height: auto;
+    }
+
+
+    .about-image-block {
+        width: 100%;
+        height: 300px;
+    }
+
+    .about-text-block {
+        width: 100%;
+        height: auto;
+        justify-content: center;
+    }
+
+    .about-text-content {
+        text-align: center;
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    .about-underline {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+
+
+.counter-section{
+    background-color: #EDCD1F;
+}
+
+
+
+@media (min-width: 768px) {
+  .border-divider {
+    border-right: 1px solid #fff;
+  }
+  .border-divider:last-child {
+    border-right: none;
+  }
+}
+
+
+
+.form-control{
+    background-color: #f7f7f7;
+}
+
+
+
+.img-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.img-wrapper img {
+  width: 100%;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.img-wrapper:hover img {
+  transform: scale(1.05);
+}
+
+.img-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.75); /* semi-transparent white */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.img-overlay p{
+    opacity: 0.6;
+    font-size: 18px;
+}
+
+.img-wrapper:hover .img-overlay {
+  opacity: 1;
+}
+
+.img-overlay h4 {
+  color: #000;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+
+
+}
