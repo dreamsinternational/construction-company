@@ -76,7 +76,7 @@
 
     <section class="company-info-section py-5">
         <section class="container">
-            <h1 style="color: #edcd1f;">PLANT & MACHINERY</h1>
+            <h2 style="color: #edcd1f;">PLANT & MACHINERY</h2>
             <p>The backbone of the construction industry is its equipment. We at ABL Infra believe in the power of technology and are heavily invested in modern technology. Our fleet includes:</p>
             <br>
             <ul style="padding-left: 15px;">
