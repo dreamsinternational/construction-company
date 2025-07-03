@@ -9,10 +9,9 @@
     require "includes/head.php";
     ?>
     <style>
-        ul{
+        ul {}
 
-        }
-        li{
+        li {
             list-style: none;
             display: flex;
         }
@@ -53,21 +52,21 @@
                             margin-bottom: 35px; border-left: 4px solid #fec42e;font-family: Montserrat, Helvetica, Arial, sans-serif;
                             font-weight: 700;
                             line-height: 1.2;">
-                    ABL Infrastructure Pvt. Ltd.             
+                    ABL Infrastructure Pvt. Ltd.
                 </h4>
                 <div class="py-2">
-                    <img class="pr-1" style="color: #fec42e" src="Images/map-icon.png" width="20px" alt="">   
+                    <img class="pr-1" style="color: #fec42e" src="Images/map-icon.png" width="20px" alt="">
                     Mangal Bhuvan, Near Swami Vivekanand High School, Panchavati, Nashik 422 003
                 </div>
                 <div class="py-2">
-                    <img class="pr-1" style="color: #fec42e" src="Images/phone-icon.png" width="20px" alt="">   
+                    <img class="pr-1" style="color: #fec42e" src="Images/phone-icon.png" width="20px" alt="">
                     Pankaj Dharmadhikari: 9850954567
                 </div>
                 <div class="py-2">
-                    <img class="pr-1" style="color: #fec42e" src="Images/email-icon.png" width="20px" alt="">   
+                    <img class="pr-1" style="color: #fec42e" src="Images/email-icon.png" width="20px" alt="">
                     ho@ablinfra.com
                 </div>
-                
+
             </div>
         </div>
     </section>
@@ -109,12 +108,12 @@
 
 
     <section class="footer-section py-3" style="border-top: 1px solid black; background-color: rgba(0, 0, 0, 0.4);">
-    <div class="container">
-        <div class="d-flex align-items-center justify-content-between  flex-wrap">
-            <div class="footer-box">
-                <p class="m-0 text-light">© 2035 by Sphere Constructions. Powered and secured by Wix</p>
-            </div>
-            <!-- <div class="footer-box">
+        <div class="container">
+            <div class="d-flex align-items-center justify-content-between  flex-wrap">
+                <div class="footer-box">
+                    <p class="m-0 text-light">© 2035 by Sphere Constructions. Powered and secured by Wix</p>
+                </div>
+                <!-- <div class="footer-box">
                 <div class="social-icons d-flex align-items-center justify-content-end">
                     <div class="fb-icon px-2">
                         <img src="Images/facebook.png" width="32px" alt="">
@@ -124,25 +123,25 @@
                     </div>
                 </div>
             </div> -->
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 
 
 
 
 
 
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-<script>
-$(document).ready(function() {
-    $('.navbar-nav>li>a').on('click', function() {
-        $('.navbar-collapse').collapse('hide');
-    });
-});
-</script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.navbar-nav>li>a').on('click', function() {
+                $('.navbar-collapse').collapse('hide');
+            });
+        });
+    </script>
 </body>
 
 </html>
