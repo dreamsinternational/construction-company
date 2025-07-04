@@ -16,7 +16,14 @@
         require "includes/header.php";
     ?>
 
-    <section class="hero-section d-flex align-items-center justify-content-center text-white text-center">
+    <section style="height: 100vh;
+    background-image: url('images/homeimg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 80px;
+    position: relative;" class="hero-section d-flex align-items-center justify-content-center text-white text-center">
         <div class="container hero-content mt-n5">
             <h1 class="font-weight-bold">LEADERS IN QUALITY
                 CONSTRUCTION AND
@@ -32,7 +39,7 @@
 
             <div class="card-deck">
                 <div class="card">
-                    <img src="Images/wixserviceimg1.jpg" class="card-img-top" alt="...">
+                    <img src="images/serviceimg1.jpg" class="card-img-top" alt="...">
                     <div class="card-body" style="background-color: #f7f7f7;">
                         <h5 class="card-title py-2" style="color: #3d5975;">Preconstruction Planning</h5>
                         <p class="card-text pb-4">I'm a paragraph. Click here to add your own text and edit me. It’s
@@ -44,7 +51,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="Images/wixserviceimg2.jpg" class="card-img-top" alt="...">
+                    <img src="images/serviceimg2.jpg" class="card-img-top" alt="...">
                     <div class="card-body" style="background-color: #f7f7f7;">
                         <h5 class="card-title py-2" style="color: #3d5975;">
                             Architectural
@@ -58,7 +65,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="Images/wixserviceimg3.jpg" class="card-img-top" alt="...">
+                    <img src="images/serviceimg3.jpg" class="card-img-top" alt="...">
                     <div class="card-body" style="background-color: #f7f7f7;">
                         <h5 class="card-title py-2" style="color: #3d5975;">Construction
                             Management
@@ -80,7 +87,13 @@
 
     <section class="about-us" style="width: 100vw;">
         <div class="about-wrapper d-flex flex-column flex-lg-row-reverse">
-            <div class="about-image-block"></div>
+            <div class="about-image-block" style="flex: 1;
+    background-image: url('images/aboutusimg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;"></div>
 
             <div class="about-text-block d-flex align-items-center justify-content-end">
                 <div class="about-text-content px-4 px-md-5 py-5 text-right">
@@ -138,7 +151,7 @@
             <div class="row">
                 <div class="project-img col-lg-6 col-sm-12 my-3">
                     <div class="img-wrapper">
-                        <img src="Images/wixprojectimg1.jpg" alt="">
+                        <img src="images/projectimg1.jpg" alt="">
                         <div class="img-overlay">
                             <p>Project Title 1</p>
                         </div>
@@ -146,7 +159,7 @@
                 </div>
                 <div class="project-img col-lg-6 col-sm-12 my-3">
                     <div class="img-wrapper">
-                        <img src="Images/wixprojectimg2.jpg" alt="">
+                        <img src="images/projectimg2.jpg" alt="">
                         <div class="img-overlay">
                             <p>Project Title 2</p>
                         </div>
@@ -154,7 +167,7 @@
                 </div>
                 <div class="project-img col-lg-6 col-sm-12 my-3">
                     <div class="img-wrapper">
-                        <img src="Images/wixprojectimg3.jpg" alt="">
+                        <img src="images/projectimg3.jpg" alt="">
                         <div class="img-overlay">
                             <p>Project Title 3</p>
                         </div>
@@ -162,7 +175,7 @@
                 </div>
                 <div class="project-img col-lg-6 col-sm-12 my-3">
                     <div class="img-wrapper">
-                        <img src="Images/wixprojectimg4.jpg" alt="">
+                        <img src="images/projectimg4.jpg" alt="">
                         <div class="img-overlay">
                             <p>Project Title 4</p>
                         </div>
@@ -178,19 +191,19 @@
             <h2 class="text-center pb-3 about-title" style="letter-spacing: 0.05em;">CLIENTS</h2>
             <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6 client-logo my-0">
-                    <img src="Images/wixclientimg1.avif" class="img-fluid" alt="">
+                    <img src="images/clientimg1.avif" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6 client-logo my-0">
-                    <img src="Images/wixclientimg2.avif" class="img-fluid" alt="">
+                    <img src="images/clientimg2.avif" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-12 col-12 client-logo my-0">
-                    <img src="Images/wixclientimg3.avif" class="img-fluid" alt="">
+                    <img src="images/clientimg3.avif" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6 client-logo my-0">
-                    <img src="Images/wixclientimg4.avif" class="img-fluid" alt="">
+                    <img src="images/clientimg4.avif" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6 client-logo my-0">
-                    <img src="Images/wixclientimg5.avif" class="img-fluid" alt="">
+                    <img src="images/clientimg5.avif" class="img-fluid" alt="">
                 </div>
             </div>
 

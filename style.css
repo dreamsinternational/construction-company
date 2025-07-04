@@ -22,7 +22,7 @@ body {
 
 .hero-section {
     height: 100vh;
-    background-image: url('Images/wixhomeimg1.jpg');
+    background-image: url('images/homeimg2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -86,8 +86,7 @@ body {
 
 .about-image-block {
     flex: 1;
-    background-image: url('Images/wixhomeimg1.jpg');
-    /* Use the correct path to your image */
+    background-image: url('images/aboutusimg1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -27,7 +27,7 @@
         /* Breadcrumb Section */
         .breadcrumb-section {
             position: relative;
-            background: url('Images/wixcontactimg1.jpg') center center/cover no-repeat;
+            background: url('images/contactimg1.jpg') center center/cover no-repeat;
         }
 
         .breadcrumb-content h1 {
@@ -113,12 +113,12 @@
                     <div id="collapseOne" class="collapse show" data-parent="#accordion">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg2.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg4.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg2.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg4.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
                             </div>
                         </div>
                     </div>
@@ -136,12 +136,12 @@
                     <div id="collapseTwo" class="collapse" data-parent="#accordion">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg2.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg4.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg2.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg4.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
                             </div>
                         </div>
                     </div>
@@ -159,12 +159,12 @@
                     <div id="collapseThree" class="collapse" data-parent="#accordion">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg2.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg4.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg2.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg4.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
                             </div>
                         </div>
                     </div>
@@ -182,12 +182,12 @@
                     <div id="collapseFour" class="collapse" data-parent="#accordion">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg2.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg4.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg1.jpg" class="img-fluid" alt=""></div>
-                                <div class="col-md-2 col-6 mb-3"><img src="Images/wixprojectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg2.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg4.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg1.jpg" class="img-fluid" alt=""></div>
+                                <div class="col-md-2 col-6 mb-3"><img src="images/projectimg3.jpg" class="img-fluid" alt=""></div>
                             </div>
                         </div>
                     </div>

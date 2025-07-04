@@ -27,7 +27,7 @@
         /* Breadcrumb Section */
         .breadcrumb-section {
             position: relative;
-            background: url('Images/wixcontactimg1.jpg') center center/cover no-repeat;
+            background: url('images/contactimg1.jpg') center center/cover no-repeat;
         }
 
         .breadcrumb-content h1 {
@@ -97,7 +97,7 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                     <div class="card border-0 shadow text-center h-100 p-3">
-                        <img src="Images/wixuserimg4.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 1">
+                        <img src="images/userimg4.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 1">
                         <h5 class="mb-1">Amit Sharma</h5>
                         <p class="text-muted mb-0">Founder & CEO</p>
                     </div>
@@ -105,7 +105,7 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                     <div class="card border-0 shadow text-center h-100 p-3">
-                        <img src="Images/wixuserimg3.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 2">
+                        <img src="images/userimg3.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 2">
                         <h5 class="mb-1">Neha Verma</h5>
                         <p class="text-muted mb-0">Operations Head</p>
                     </div>
@@ -113,7 +113,7 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                     <div class="card border-0 shadow text-center h-100 p-3">
-                        <img src="Images/wixuserimg1.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 3">
+                        <img src="images/userimg1.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 3">
                         <h5 class="mb-1">Rahul Patil</h5>
                         <p class="text-muted mb-0">Project Manager</p>
                     </div>
@@ -121,7 +121,7 @@
 
                 <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                     <div class="card border-0 shadow text-center h-100 p-3">
-                        <img src="Images/wixuserimg2.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 4">
+                        <img src="images/userimg2.jpg" class="rounded-circle mx-auto mb-3" alt="Team Member 4">
                         <h5 class="mb-1">Sonia Mehta</h5>
                         <p class="text-muted mb-0">Design Lead</p>
                     </div>
@@ -137,7 +137,7 @@
                 <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-center">
                     <div class="logo py-3 px-4 d-flex align-items-center justify-content-center"
                         style="height: 100%; background-color: #fec42e; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
-                        <img src="Images/map-icon.png" alt="" style="width: 30px;">
+                        <img src="images/map-icon.png" alt="map" style="width: 30px;">
                     </div>
                     <div class="text p-3"
                         style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
@@ -146,27 +146,27 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-center">
+                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-stretch">
                     <div class="logo py-3 px-4 d-flex align-items-center justify-content-center"
                         style="height: 100%; background-color: #fec42e; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
-                        <img src="Images/map-icon.png" alt="" style="width: 30px;">
+                        <img src="images/phone-icon.png" alt="phone" style="width: 30px;">
                     </div>
                     <div class="text p-3"
-                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Visit Us</p>
-                        <h6 class="m-0" style="font-weight: 500;">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
+                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); width: 100%; height: 100%;">
+                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Call Us</p>
+                        <h6 class="m-0" style="font-weight: 500;">0253 - 2514235</h6>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-center">
+                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-stretch">
                     <div class="logo py-3 px-4 d-flex align-items-center justify-content-center"
                         style="height: 100%; background-color: #fec42e; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
-                        <img src="Images/map-icon.png" alt="" style="width: 30px;">
+                        <img src="images/email-icon.png" alt="email" style="width: 30px;">
                     </div>
                     <div class="text p-3"
-                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Visit Us</p>
-                        <h6 class="m-0" style="font-weight: 500;">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
+                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);width: 100%; height: 100%;">
+                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Email Us</p>
+                        <h6 class="m-0" style="font-weight: 500;">ho@ablinfra.com</h6>
                     </div>
                 </div>
             </div>
@@ -177,7 +177,7 @@
         <div class="container">
             <div class="d-flex align-items-center justify-content-between flex-wrap">
                 <div class="footer-box">
-                    <p class="m-0 text-light" style="font-size: 14px; color: #aaa;">© 2035 by Sphere Constructions. Powered and secured by Wix</p>
+                    <p class="m-0 text-light" style="font-size: 14px; color: #aaa;">© 2035 by Sphere Constructions. Powered and secured by Sphere</p>
                 </div>
             </div>
         </div>
