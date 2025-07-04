@@ -111,52 +111,6 @@
         </div>
     </section>
 
-
-    <!-- <section class="contact-2-section py-5" style="background-color:  rgba(0, 0, 0, 0.4); py-3">
-        <div class="container py-3">
-            <div class="row">
-                <div class="col-lg-4 col md-4 col-12 p-3 d-flex align-items-center">
-                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center" style="height: 100%; background-color: black;">
-                        <img src="Images/map-icon.png" alt="">
-                    </div>
-                    <div class="text p-3 " style="background-color: #38393a">
-                        <p class="text-light m-0">Visit Us</p>
-                        <h6 class="text-light">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
-                    </div>
-                </div>
-                <div class="col-lg-4 col md-4 col-12 p-3 d-flex align-items-center">
-                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center" style="height: 100%; background-color: black;">
-                        <img src="Images/map-icon.png" alt="">
-                    </div>
-                    <div class="text p-3 " style="background-color: #38393a">
-                        <p class="text-light m-0">Visit Us</p>
-                        <h6 class="text-light">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
-                    </div>
-                </div>
-                <div class="col-lg-4 col md-4 col-12 p-3 d-flex align-items-center">
-                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center" style="height: 100%; background-color: black;">
-                        <img src="Images/map-icon.png" alt="">
-                    </div>
-                    <div class="text p-3 " style="background-color: #38393a">
-                        <p class="text-light m-0">Visit Us</p>
-                        <h6 class="text-light">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="footer-section py-3" style="border-top: 1px solid black; background-color: rgba(0, 0, 0, 0.4);">
-        <div class="container">
-            <div class="d-flex align-items-center justify-content-between  flex-wrap">
-                <div class="footer-box">
-                    <p class="m-0 text-light">© 2035 by Sphere Constructions. Powered and secured by Wix</p>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
     <section class="contact-2-section py-5" style="background-color: #111;">
         <div class="container py-3">
             <div class="row">
