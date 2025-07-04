@@ -139,7 +139,6 @@
 <body>
     <?php require "includes/header.php"; ?>
 
-    <!-- Breadcrumb Section -->
     <section class="breadcrumb-section pt-5 pb-0">
         <div class="pt-5">
             <div class="section-overlay py-5"></div>
@@ -155,7 +154,6 @@
         </div>
     </section>
 
-    <!-- Company Info -->
     <section class="py-5">
         <div class="container">
             <div class="company-intro">
@@ -174,7 +172,6 @@
         </div>
     </section>
 
-    <!-- Timeline Section -->
     <section class="timeline-section py-5 bg-light">
         <div class="container">
             <h2 class="text-center font-weight-bold mb-5">Milestones & Growth</h2>
@@ -197,7 +194,6 @@
         </div>
     </section>
 
-    <!-- Core Values -->
     <section class="values-section py-5">
         <div class="container">
             <div class="text-center mb-5">

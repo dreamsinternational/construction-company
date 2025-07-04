@@ -8,7 +8,6 @@
     <?php require "includes/head.php"; ?>
 
     <style>
-        /* Shared Overlay */
         .section-overlay {
             position: absolute;
             top: 0;
@@ -24,7 +23,6 @@
             z-index: 2;
         }
 
-        /* Breadcrumb Section */
         .breadcrumb-section {
             position: relative;
             background: url('images/contactimg1.jpg') center center/cover no-repeat;
@@ -46,7 +44,6 @@
             color: #fff;
         }
 
-        /* Core Team Section */
         .core-team-section .card img {
             width: 120px;
             height: 120px;

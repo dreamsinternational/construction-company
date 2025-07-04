@@ -105,7 +105,6 @@
 
     <?php require "includes/header.php"; ?>
 
-    <!-- Breadcrumb Section -->
     <section class="breadcrumb-section pt-5 pb-0">
         <div class="pt-5">
             <div class="section-overlay py-5"></div>
@@ -123,7 +122,6 @@
 
     
 
-    <!-- Projects Section -->
     <section class="project-section py-5 bg-light">
         <div class="container">
             <div class="text-center mb-5">
