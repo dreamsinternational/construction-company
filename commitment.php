@@ -129,63 +129,58 @@
 
 
 
-    <section class="contact-2-section py-5" style="background-color:  rgba(0, 0, 0, 0.4); py-3">
+
+    <section class="contact-2-section py-5" style="background-color: #111;">
         <div class="container py-3">
             <div class="row">
-                <div class="col-lg-4 col md-4 col-12 p-3 d-flex align-items-center">
-                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center" style="height: 100%; background-color: black;">
-                        <img src="Images/map-icon.png" alt="">
+                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-center">
+                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center"
+                        style="height: 100%; background-color: #fec42e; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
+                        <img src="Images/map-icon.png" alt="" style="width: 30px;">
                     </div>
-                    <div class="text p-3 " style="background-color: #38393a">
-                        <p class="text-light m-0">Visit Us</p>
-                        <h6 class="text-light">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
-                    </div>
-                </div>
-                <div class="col-lg-4 col md-4 col-12 p-3 d-flex align-items-center">
-                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center" style="height: 100%; background-color: black;">
-                        <img src="Images/map-icon.png" alt="">
-                    </div>
-                    <div class="text p-3 " style="background-color: #38393a">
-                        <p class="text-light m-0">Visit Us</p>
-                        <h6 class="text-light">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
+                    <div class="text p-3"
+                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Visit Us</p>
+                        <h6 class="m-0" style="font-weight: 500;">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
                     </div>
                 </div>
-                <div class="col-lg-4 col md-4 col-12 p-3 d-flex align-items-center">
-                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center" style="height: 100%; background-color: black;">
-                        <img src="Images/map-icon.png" alt="">
+
+                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-center">
+                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center"
+                        style="height: 100%; background-color: #fec42e; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
+                        <img src="Images/map-icon.png" alt="" style="width: 30px;">
                     </div>
-                    <div class="text p-3 " style="background-color: #38393a">
-                        <p class="text-light m-0">Visit Us</p>
-                        <h6 class="text-light">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
+                    <div class="text p-3"
+                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Visit Us</p>
+                        <h6 class="m-0" style="font-weight: 500;">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-12 p-3 d-flex align-items-center">
+                    <div class="logo py-3 px-4 d-flex align-items-center justify-content-center"
+                        style="height: 100%; background-color: #fec42e; border-top-left-radius: 10px; border-bottom-left-radius: 10px;">
+                        <img src="Images/map-icon.png" alt="" style="width: 30px;">
+                    </div>
+                    <div class="text p-3"
+                        style="background-color: #1f1f1f; color: #fff; border-top-right-radius: 10px; border-bottom-right-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+                        <p class="m-0" style="font-weight: 600; color: #fec42e;">Visit Us</p>
+                        <h6 class="m-0" style="font-weight: 500;">Mangal Bhuvan, Panchavati Karanja, Nashik 422 003</h6>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-
-    <section class="footer-section py-3" style="border-top: 1px solid black; background-color: rgba(0, 0, 0, 0.4);">
+    <section class="footer-section py-3" style="border-top: 1px solid #333; background-color: #000;">
         <div class="container">
-            <div class="d-flex align-items-center justify-content-between  flex-wrap">
+            <div class="d-flex align-items-center justify-content-between flex-wrap">
                 <div class="footer-box">
-                    <p class="m-0 text-light">© 2035 by Sphere Constructions. Powered and secured by Wix</p>
+                    <p class="m-0 text-light" style="font-size: 14px; color: #aaa;">© 2035 by Sphere Constructions. Powered and secured by Wix</p>
                 </div>
-                <!-- <div class="footer-box">
-                <div class="social-icons d-flex align-items-center justify-content-end">
-                    <div class="fb-icon px-2">
-                        <img src="Images/facebook.png" width="32px" alt="">
-                    </div>
-                    <div class="li-icon px-2">
-                        <img src="Images/linkedin.png" width="32px" alt="">
-                    </div>
-                </div>
-            </div> -->
             </div>
         </div>
     </section>
-
-
-    <!-- <?php require "includes/footer.php"; ?> -->
 
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
